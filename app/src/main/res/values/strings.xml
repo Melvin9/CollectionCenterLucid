@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Collection Center Lucid</string>
+    <string name="generate">Generate</string>
+    <string name="save">Save</string>
+    <string name="generated_batch_id">GENERATED BATCH ID</string>
+    <string name="qr_code">Qr Code</string>
+</resources>
